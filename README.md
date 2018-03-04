@@ -10,4 +10,4 @@ To approach this, we strapped a microbit to the hand of one of us, and recorded 
 The feature extraction we used was simply getting the accelerometer data from the microbit, and averaging the distance from the gesture over the entire swing. To improve on this, it would be great to incorporate maybe a kinect or another system that can more accuractly mesure an object traveling through space. Although the accerometers somewhat do this, they are not perfect for this.
 
 ## Demo
-<link goes here>
+https://www.youtube.com/watch?v=3Q0cbHlKf5g&feature=youtu.be
